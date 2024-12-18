@@ -1,15 +1,12 @@
-# cliartgen
+# getcliart
 
 **cliartgen** is a tool that generates **ASCII art** from images using various
 dithering algorithms, creating stunning text-based visuals directly from your
 favorite images.
 
-## Features
+![example](https://github.com/user-attachments/assets/8e96c6d0-8ceb-41fe-bc0a-fa039eada222)
 
-- Supports popular dithering algorithms:
-  - **Floyd-Steinberg**: Simple and smooth dithering
-  - **Stucki**: Enhances edge contrast
-  - **Atkinson**: High contrast for bold visuals
+[+] Supports popular dithering algorithms:
 
 ## Built With
 
@@ -18,22 +15,6 @@ favorite images.
 - **React** - Interactive UI components
 - **shadcn-ui** - Beautiful, customizable components
 - **Tailwind CSS** - Rapid and responsive styling
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/alainQtec/cliartgen.git
-   cd cliartgen
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Run the app:
-   ```bash
-   npm run dev
-   ```
 
 ## Usage
 
